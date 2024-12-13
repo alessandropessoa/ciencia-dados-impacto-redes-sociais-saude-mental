@@ -25,7 +25,7 @@ Após encerrar o período de coleta da pesquisa realizada via Whatsapp do autor 
 
 			      Figura 01 - Calculadora de tamanho de amostra 
 
-https://github.com/alessandropessoa/ciencia-dados-impacto-redes-sociais-saude-mental/blob/main/distribuicaoNomalSkew.png
+![Texto Alternativo](https://github.com/alessandropessoa/ciencia-dados-impacto-redes-sociais-saude-mental/blob/main/formulaTamanhoAmostral.png)
  
 		
 			Fonte: Calculator.io (2024). Disponível em: https://www.calculator.io/pt/calculadora-de-tamanho-da-amostra/?utm_source=chatgpt.com. Acesso em: 10 dez. 2024.
@@ -35,7 +35,7 @@ Foi necessário saber o tamanho máximo da população que poderia ser utilizado
 Os dados faltantes foram preprocessados antes de servirem de insumo para o modelo CTGAN, e as colunas que possuíam dados faltantes foram substituídas pela mediana no caso de dados quantitativo e pela moda no caso de dados qualitativos  preservando as características de distribuição estatística, observando o teorema central do limite, visando mitigar a potencialização de assimetrias nestas colunas, conforme.
 	
 		Figura 2 - Medidas de posição: média aritmética, moda e mediana 
-
+![Texto Alternativo](https://github.com/alessandropessoa/ciencia-dados-impacto-redes-sociais-saude-mental/blob/main/distribuicaoNomalSkew.png)
 Fonte: Lecursos (2024). Disponível em: https://lecursos.com/pt-br/articles/medidas-de-posicao-media-aritmetica-moda-e-mediana. Acesso em: 10 dez. 2024. 
 
 A modelagem foi estruturada em três etapas principais, cada uma utilizando técnicas específicas para atender aos objetivos da pesquisa:
