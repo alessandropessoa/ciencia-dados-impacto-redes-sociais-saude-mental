@@ -45,8 +45,8 @@ A modelagem foi estruturada em três etapas principais, cada uma utilizando téc
     3. Modelagem com Regressão Logística: Por fim, a regressão logística foi empregada para explorar o impacto das redes sociais na saúde mental. A variável resposta utilizada como alvo foi derivada da pergunta da pesquisa: "Qual o impacto que você acredita que as redes sociais causam em você?" (escalonada de 1, muito negativo, a 5, muito positivo). Essa variável permitiu modelar a relação entre as características dos participantes e suas percepções sobre os impactos das redes sociais.
 Com essa abordagem, foi possível combinar técnicas de aprendizado de máquina e estatística para analisar, reduzir e interpretar os dados, alinhando os métodos aos objetivos da pesquisa.
 
-
-
+Gráficos da Pesquisa
+![Image 1](https://github.com/alessandropessoa/ciencia-dados-impacto-redes-sociais-saude-mental/blob/main/Distribui%C3%A7%C3%A3o%20Geogr%C3%A1fica%20dos%20Participantes%20por%20Cidade%20de%20Resid%C3%AAncia_barras.png) ![Image 2](https://github.com/alessandropessoa/ciencia-dados-impacto-redes-sociais-saude-mental/blob/main/Distribui%C3%A7%C3%A3o%20da%20Dificuldade%20de%20Concentra%C3%A7%C3%A3o%20entre%20os%20Participantes%20em%20uma%20Escala%20de%20Likert%20de%201%20a%205%20(1%20%3D%20Pouca%20Dificuldade%2C%205%20%3D%20Muita%20Dificuldade).png) ![Image 3](https://github.com/alessandropessoa/ciencia-dados-impacto-redes-sociais-saude-mental/blob/main/Distribui%C3%A7%C3%A3o%20da%20Facilidade%20de%20Distra%C3%A7%C3%A3o%20entre%20os%20Participantes%20em%20uma%20Escala%20de%20Likert%20de%201%20a%205.png)
 
 
 
