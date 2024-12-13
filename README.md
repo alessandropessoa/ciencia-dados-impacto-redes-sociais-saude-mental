@@ -32,7 +32,7 @@ Após encerrar o período de coleta da pesquisa realizada via Whatsapp do autor 
 
 Foi necessário saber o tamanho máximo da população que poderia ser utilizados para uma margem de erro mínima tendo uma amostra de 57 pessoas, para se obter máxima robustez na geração de dados sintéticos a partir das CTGAN’s, que construiu uma população baseado nos dados tabulares da amostra da pesquisa, preservando as características estatísticas e relacionais do dados reais.
 
-Os dados faltantes foram preprocessados antes de servirem de insumo para o modelo CTGAN, e as colunas que possuíam dados faltantes foram substituídas pela mediana no caso de dados quantitativo e pela moda no caso de dados qualitativos  preservando as características de distribuição estatística, observando o teorema central do limite, visando mitigar a potencialização de assimetrias nestas colunas, conforme.
+Os dados faltantes foram preprocessados antes de servirem de insumo para o modelo CTGAN, e as colunas que possuíam dados faltantes foram substituídas pela mediana no caso de dados quantitativo e pela moda no caso de dados qualitativos  preservando as características de distribuição estatística, observando o teorema central do limite, visando mitigar a potencialização de assimetrias nestas colunas, conforme Figura 02.
 	
 		Figura 2 - Medidas de posição: média aritmética, moda e mediana 
 ![Texto Alternativo](https://github.com/alessandropessoa/ciencia-dados-impacto-redes-sociais-saude-mental/blob/main/distribuicaoNomalSkew.png)
