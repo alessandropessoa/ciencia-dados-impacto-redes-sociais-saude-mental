@@ -25,7 +25,7 @@ Após encerrar o período de coleta da pesquisa realizada via Whatsapp do autor 
 
 			      Figura 01 - Calculadora de tamanho de amostra 
 
-<img href="https://github.com/alessandropessoa/ciencia-dados-impacto-redes-sociais-saude-mental/blob/main/distribuicaoNomalSkew.png"> 0</img>
+https://github.com/alessandropessoa/ciencia-dados-impacto-redes-sociais-saude-mental/blob/main/distribuicaoNomalSkew.png
  
 		
 			Fonte: Calculator.io (2024). Disponível em: https://www.calculator.io/pt/calculadora-de-tamanho-da-amostra/?utm_source=chatgpt.com. Acesso em: 10 dez. 2024.
