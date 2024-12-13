@@ -36,6 +36,7 @@ Os dados faltantes foram preprocessados antes de servirem de insumo para o model
 	
 		Figura 2 - Medidas de posição: média aritmética, moda e mediana 
 ![Texto Alternativo](https://github.com/alessandropessoa/ciencia-dados-impacto-redes-sociais-saude-mental/blob/main/distribuicaoNomalSkew.png)
+
 Fonte: Lecursos (2024). Disponível em: https://lecursos.com/pt-br/articles/medidas-de-posicao-media-aritmetica-moda-e-mediana. Acesso em: 10 dez. 2024. 
 
 A modelagem foi estruturada em três etapas principais, cada uma utilizando técnicas específicas para atender aos objetivos da pesquisa:
